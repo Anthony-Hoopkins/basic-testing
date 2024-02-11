@@ -3,10 +3,6 @@ import { getBankAccount } from '.';
 describe('BankAccount', () => {
   const balance = 300;
 
-  beforeAll(() => {
-    return getBankAccount(balance);
-  });
-
   test('should create account with initial balance', () => {
     const account = getBankAccount(balance);
 
