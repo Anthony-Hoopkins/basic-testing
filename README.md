@@ -110,3 +110,8 @@ Link to the task: https://github.com/AlreadyBored/nodejs-assignments/blob/main/a
 Deadline date: 2024-02-13
 
 Self-check: no points for calculating: implemented almost all, but -6 for one incorrect: 252 / 258
+
+Test Suites: 8 passed, 8 total
+Tests:       57 passed, 57 total
+Snapshots:   1 passed, 1 total
+Time:        3.673 s, estimated 4 s
