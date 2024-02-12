@@ -104,3 +104,9 @@ Write your tests in `src/08-snapshot-testing/index.test.ts`.
 ---
 
 © [AlreadyBored](https://github.com/AlreadyBored)
+
+Link to the task: https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/basic-testing/assignment.md
+
+Deadline date: 2024-02-13
+
+Self-check: no points for calculating: implemented almost all, but -6 for one incorrect: 252 / 258
